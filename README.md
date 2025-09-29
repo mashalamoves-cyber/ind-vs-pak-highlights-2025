@@ -1,7 +1,7 @@
 
 # 🏏 IND vs PAK Highlights 2025
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/c26b7545-ceab-4c58-979d-554193818d95" />
-
+[<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/c26b7545-ceab-4c58-979d-554193818d95" />
+](https://videos.openai.com/vg-assets/assets%2Ftask_01k6a3zbzjevgvxddnhrcmr147%2F1759128914_img_0.webp?st=2025-09-29T05%3A24%3A04Z&se=2025-10-05T06%3A24%3A04Z&sks=b&skt=2025-09-29T05%3A24%3A04Z&ske=2025-10-05T06%3A24%3A04Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8b872fb2-b44b-4c1d-9ff6-1d4509d19e6e&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=aTVhDj6%2FLTFpkKpripQjwIwdPqBVlRlCNcCcvezY9GQ%3D&az=oaivgprodscus)
 इस repo में आपको India vs Pakistan मैच की झलकियाँ (highlights), key moments और score updates मिलेंगे।  
 साथ ही नीचे एक exclusive guide है 
 
